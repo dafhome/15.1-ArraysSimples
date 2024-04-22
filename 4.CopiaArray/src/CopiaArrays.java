@@ -25,14 +25,6 @@ public class CopiaArrays {
             numerosCopia2[i] = numeros[i];
         }
 
-
-
-
-
-
-
-
-
         System.out.println("Array numeros con direccion memoria:"+numeros);
 
         for (int i : numeros) {
