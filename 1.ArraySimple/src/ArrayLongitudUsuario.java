@@ -23,6 +23,6 @@ public class ArrayLongitudUsuario {
             System.out.print(mascota+" ");
         }
         System.out.println(" ");
-
+        scan.close();
     }
 }
