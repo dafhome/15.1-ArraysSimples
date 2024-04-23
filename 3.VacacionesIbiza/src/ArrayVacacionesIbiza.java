@@ -32,11 +32,7 @@ public class ArrayVacacionesIbiza {
                     System.out.println("Recuerda responder S/N");
                 }
             }
-            
         }
-
-
-
 
     }
 }
